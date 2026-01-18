@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Design News Hub",
+  "description": "Daily curator of design, fine arts, and architectural news. Generates summaries, PDF documents, and AI-powered audio briefings.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
